@@ -46,17 +46,16 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 </div>
 
 # 💡 Projects
-- *2024.09 - 2025.08*: <strong>Zero-Shot Question-Answering Framework with Adaptive Audio-Visual Fusion Prompts</strong>, *M.S. Students Fellowship by National Research Foundation of Korea (NRF)*
-- *2024.07 - 2024.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
+- *2024.07 - Present*: <strong>Development of Reliable, Secure, and Safe Human-AI Alignment Techniques</strong> <br> Funded by Institute for Information & communications Technology Promotion (IITP)
+- *2023.03 - Present*: <strong>RGB-X Path Networks for Multi-modal Multi-task Learning</strong> <br> Funded by National Research Foundation
+- *2023.03 - 2023.10*: <strong>RGB-D Object Detection and Segmentation based on Multimodal Fusion</strong> <br> Funded by Samsung Electronics
+- *2021.09 - 2023.08*: <strong>Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass</strong> <br> Funded by Samsung Research Funding & Incubation Center for Future Technology
 
 # 🎖 Honors and Awards
-- *2025.02*: <strong>Honorable Mention for Outstanding Paper Award</strong>, IPIU 2025.
-- *2024.12*: <strong>Excellence Award</strong>, Capstone Design for Information and Communication Engineering by Inha University.
+- *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
 # 📖 Educations
-- *2024.03 - present*: Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering.
-- *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
-
-# 💻 Internships
-- *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
-- *2022.12 - 2024.02*: Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
+- *2024.09 - 2025.02*: Purdue University, Visiting Scholar, [SMART LAB]([https://www.ariai.io/](https://www.smart-laboratory.org/).
+- *2024.03 - Present*: Sungkyunkwan University, Ph.D. Student, Department of Immersive Media Engineering.
+- *2021.09 - 2024.02*: Inha University, M.S., Department of Electrical and Computer Engineering.
+- *2016.03 - 2020.02*: Andong National University, B.E., Department of Information and Communication Engineering.
