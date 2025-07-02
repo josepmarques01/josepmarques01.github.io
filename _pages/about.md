@@ -55,7 +55,7 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
 # 📖 Educations
-- *2024.09 - 2025.02*: Purdue University, Visiting Scholar @ [SMART LAB](https://www.smart-laboratory.org/).
-- *2024.03 - Present*: Sungkyunkwan University, Ph.D. Student, Department of Immersive Media Engineering.
-- *2021.09 - 2024.02*: Inha University, M.S., Department of Electrical and Computer Engineering.
-- *2016.03 - 2020.02*: Andong National University, B.E., Department of Information and Communication Engineering.
+- *<strong>2024.09 - 2025.02</strong>*: Purdue University, Visiting Scholar @ [SMART LAB](https://www.smart-laboratory.org/).
+- *<strong>2024.03 - Present</strong>*: Sungkyunkwan University, Ph.D. Student, Department of Immersive Media Engineering.
+- *<strong>2021.09 - 2024.02</strong>*: Inha University, M.S., Department of Electrical and Computer Engineering.
+- *<strong>2016.03 - 2020.02</strong>*: Andong National University, B.E., Department of Information and Communication Engineering.
