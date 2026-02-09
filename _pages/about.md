@@ -58,6 +58,9 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2025.11*: Selected as <strong>a recipient of the AI SeoulTech Graduate Scholarship</strong>, awarded for outstanding research potential in AI.
 - *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
+# 🔍 Academic Activities
+- Pattern Recognition 2026 Reviewer
+
 # 📖 Educations
 - *<strong>2024.03 - Present</strong>*: Sungkyunkwan University, Ph.D. Student, Department of Immersive Media Engineering.
 - *<strong>2024.09 - 2025.02</strong>*: Purdue University, Visiting Scholar @ [SMART LAB](https://www.smart-laboratory.org/).
