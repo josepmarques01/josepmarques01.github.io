@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Combined M.S/Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on Embodied AI. Specifically, Model Adaptation and Continual Learning on Vision-Language-Action Models. In addition, I am also interested field AI Perception. 
+I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on embodied AI. I am particularly interested in developing Vision-Language-Action models and field AI systems for hazardous environments (e.g., underwater robotics).
+
+I am always open to discussing new ideas and external collaborations in embodied AI and field robotics. Feel free to contact me by email or LinkedIn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
