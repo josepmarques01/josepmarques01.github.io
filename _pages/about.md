@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on embodied AI. I am particularly interested in developing Vision-Language-Action models and field AI systems for hazardous environments (e.g., underwater robotics).
+I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on embodied AI. I am particularly interested in developing Vision-Language-Action models. I am also interested in Field AI Robotics (e.g., underwater robotics).
 
 <strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in embodied AI and field robotics.</span></strong> Feel free to contact me by email or LinkedIn.
 
