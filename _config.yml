@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Soyun Choi"
-description              : # "M.S student at Sungkyunkwan Univ."
-repository               : "soyunchoi/soyunchoi.github.io"
+title                    : "Josep Marques"
+description              : # "Combined M.S/Ph.D. student at Sungkyunkwan Univ."
+repository               : "9wysqsrtq8-dev/josepmarques.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Soyun Choi"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "Ph.D. student at Sungkyunkwan Univ."
+  name             : "Josep Marques"
+  avatar           : "images/github.png"
+  bio              : "Combined M.S/Ph.D. student at Sungkyunkwan Univ."
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=RcVbUFgAAAAJ"
-  email            : "sychoi9719@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=r2RHnjoAAAAJ&hl=en"
+  email            : "jmarques.verdegal@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "soyunchoi" # e.g., "github username"
+  github           : #"soyunchoi" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "soyun-choi-0a7901372"
+  linkedin         : "josepmarquesverdegal"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
