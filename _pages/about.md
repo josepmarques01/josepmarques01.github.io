@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on embodied AI. I am particularly interested in developing Vision-Language-Action models. I am also interested in Field AI Robotics (e.g., underwater robotics).
+I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on multimodal learning and embodied AI.
 
-<strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in embodied AI and field robotics.</span></strong> Feel free to contact me by email or LinkedIn.
+<strong><span style="color:#0b5ed7;">I am always open to discussing new ideas and external collaborations in multimodal learning and embodied AI.</span></strong> Feel free to contact me by email or LinkedIn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -33,7 +33,6 @@ I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU),
 <div class='paper-box-text' markdown="1">
 
 - <strong>Block Recursive Transformers for Structured Parameter Sharing </strong> <br> Under Review <br> <strong><span style="color:blue">Josep Marques</span></strong>, HyunYoung Cho, Youjia Zhang, Aecheon Jung, Youngeun Kim, Kyuhong Shim and Sungeun Hong<br>
-- <strong>Few-Shot Prompt Tuning for Sim2Real Underwater Image Segmentation </strong> <br> Under Review <br> <strong><span style="color:blue">Josep Marques</span></strong>, Salvador López, Ramón A. Mollineda and Raúl Marín<br>
 
 </div>
 
@@ -43,9 +42,9 @@ I am a first-year combined M.S./Ph.D. student at Sungkyunkwan University (SKKU),
 - *2022.09 - 2025.08*: <strong>Assistant Researcher</strong> <br> Research Centre in Robotics and Underwater Technologies, Jaume I University, Spain
 
 # 💡 Projects
+- *2026.03 - Present*: <strong>Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors</strong> <br> Funded by the National Research Foundation of Korea
 - *2025.03 - 2025.08*: <strong>Centauro: </strong> <br> Funded by Spanish Ministry of Science, Innovation and Universities
 - *2024.09 - 2025.08*: <strong>Cooperamos: COOPErative Resident robots for Autonomous ManipulatiOn Subsea</strong> <br> Funded by Spanish Ministry of Science and Innovation
-- *2023.01 - 2025.08*: <strong>ROS-based Low-Cost Autonomous Surface Vehicle (ASV)</strong> <br> Internal Funding
 - *2022.09 - 2025.08*: <strong>H2020-El Peacetolero: El-Peacetolero Embedded Electronic solutions for Polymer Innovative Scanning Tools using Light Emitting devices for diagnostic Routines</strong> <br> Funded by European Comission
 
 # 🎖 Honors and Awards
